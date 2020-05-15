@@ -8,7 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Button x:Name="Start" Content="Avvia Task" HorizontalAlignment="Left" Margin="145,106,0,0" VerticalAlignment="Top" Height="31" Width="113"/>
-        <Button x:Name="Stop" Content="Ferma Task" HorizontalAlignment="Left" Margin="145,0,0,0" VerticalAlignment="Center" Height="31" Width="113"/>
+        <Button x:Name="Stop" Content="Ferma Task" HorizontalAlignment="Left" Margin="145,241,0,0" VerticalAlignment="Top" Height="31" Width="113"/>
         <Label x:Name="Lbl_Ris" Content="0" HorizontalAlignment="Left" Margin="185,160,0,0" VerticalAlignment="Top"/>
 
     </Grid>
